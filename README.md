@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shankhadeep</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software developer  India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younglord3302&label=Profile%20views&color=0e75b6&style=flat" alt="younglord3302" /> </p>
 
@@ -20,6 +20,7 @@
 - ⚡ Fun fact **hungry tech monkey**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
