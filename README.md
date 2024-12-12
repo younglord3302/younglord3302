@@ -16,7 +16,7 @@
 - 📫 How to reach me **shankhadeepmondal7@gmail.com**
 
 - ⚡ Fun fact **hungry tech monkey**
--  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=younglord3302&show_icons=true&locale=en&layout=compact" alt="younglord3302" /></p>
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=younglord3302&show_icons=true&locale=en&layout=compact" alt="younglord3302" /></p>
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=younglord3302&show_icons=true&locale=en" alt="younglord3302" /></p>
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=younglord3302&" alt="younglord3302" /></p>
 
