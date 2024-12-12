@@ -16,12 +16,10 @@
 - 📫 How to reach me **shankhadeepmondal7@gmail.com**
 
 - ⚡ Fun fact **hungry tech monkey**
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=younglord3302&show_icons=true&locale=en" alt="younglord3302" /></p> <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=younglord3302&show_icons=true&locale=en&layout=compact" alt="younglord3302" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=younglord3302&show_icons=true&locale=en" alt="younglord3302" /></p>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=younglord3302" alt="younglord3302" /></a> </p>
 
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=younglord3302&show_icons=true&locale=en&layout=compact" alt="younglord3302" /></p>
 
 
 
@@ -36,4 +34,10 @@
 <p align="left">
 <a href="https://dev.to/https://dev.to/younglord3302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/younglord3302" height="30" width="40" /></a>
 </p>
+
+### Blogs posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
