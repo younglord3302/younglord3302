@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shankhadeep Mondal</h1>
 <h3 align="center">A passionate FullStack Developer from India India</h3>
 
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younglord3302&label=Profile%20views&color=0e75b6&style=flat" alt="younglord3302" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=younglord3302" alt="younglord3302" /></a> </p>
