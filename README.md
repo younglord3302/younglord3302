@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/shankhadeepmondal7/?edit=true](https://www.crio.do/learn/portfolio/shankhadeepmondal7/?edit=true)
+- 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/shankhadeepmondal7/](https://www.crio.do/learn/portfolio/shankhadeepmondal7/?edit=true)
 
 - 💬 Ask me about **react**
 
